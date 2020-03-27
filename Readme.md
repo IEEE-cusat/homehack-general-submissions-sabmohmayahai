@@ -6,7 +6,7 @@ https://youtu.be/IKF3uPlRoXU
 
 ## React-Native
 Contains all the react-native code to run the app.
-Install expo and run expo run on the terminal
+Install expo and run <i>expo run</i> on the terminal
 
 ## Python + Flask
 Contains all the python training and testing code.
