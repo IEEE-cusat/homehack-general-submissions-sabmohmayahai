@@ -14,11 +14,13 @@ You can also find the flask server code.
 
 ## Screeshots
 Real Time Accelerometer data from phone sensor
-![Sensor](sensor.jpeg | width=100)
-<img src="sensor.jpeg" width="48">
+</br>
+<img src="sensor.jpeg" width="100">
 
 Mapped road conditions
-![Map](map.jpeg | width=100)
+</br>
+<img src="map.jpeg" width="100">
 
 In real life, depressions in roads come up in the map as orange regions
-![irl](demo.jpeg | width=100)
+</br>
+<img src="demo.jpeg" width="500">
