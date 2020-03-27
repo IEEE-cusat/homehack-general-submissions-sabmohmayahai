@@ -11,3 +11,13 @@ Install expo and run expo run on the terminal
 ## Python + Flask
 Contains all the python training and testing code.
 You can also find the flask server code.
+
+## Screeshots
+Real Time Accelerometer data from phone sensor
+![Sensor](sensor.jpeg)
+
+Mapped road conditions
+![Map](map.jpeg)
+
+In real life, depressions in roads come up in the map as orange regions
+![irl](demo.jpeg)
