@@ -8,6 +8,6 @@ https://youtu.be/IKF3uPlRoXU
 Contains all the react-native code to run the app.
 Install expo and run expo run on the terminal
 
-# Python + Flask
+## Python + Flask
 Contains all the python training and testing code.
 You can also find the flask server code.
