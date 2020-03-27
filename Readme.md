@@ -15,6 +15,7 @@ You can also find the flask server code.
 ## Screeshots
 Real Time Accelerometer data from phone sensor
 ![Sensor](sensor.jpeg | width=100)
+<img src="sensor.jpeg" width="48">
 
 Mapped road conditions
 ![Map](map.jpeg | width=100)
